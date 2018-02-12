@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="4">
+
+  <testsuite name="demo"
+    errors="0" failures="1" hostname="" id="" package="demo" skipped="3"
+    tests="4" time="18.37" timestamp="Fri, 09 Feb 2018 18:15:50 GMT">
+  
+    <testcase name="Demo test Imgur Login" classname="demo" time="18.37" assertions="1">  <failure message="Timed out while waiting for element &lt;.topbar-icon.signin-register&gt; to be present for 4000 milliseconds.">    at process._tickCallback (internal/process/next_tick.js:150:11)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+    
+    <testcase
+      name="Demo test Imgur Upload" classname="demo">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Demo test Imgur Search" classname="demo">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Demo test Imgur Random Page" classname="demo">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

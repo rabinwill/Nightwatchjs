@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="4">
+
+  <testsuite name="demo"
+    errors="0" failures="1" hostname="" id="" package="demo" skipped="3"
+    tests="4" time="29.66" timestamp="Sat, 10 Feb 2018 22:04:36 GMT">
+  
+    <testcase name="Demo test Imgur Login" classname="demo" time="29.66" assertions="1">  <failure message="Timed out while waiting for element &lt;body&gt; to be present for 10000 milliseconds.">    at process._tickCallback (internal/process/next_tick.js:150:11)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+    
+    <testcase
+      name="Demo test Imgur Upload" classname="demo">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Demo test Imgur Search" classname="demo">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Demo test Imgur Random Page" classname="demo">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

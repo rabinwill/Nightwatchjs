@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="demo"
+    errors="0" failures="0" hostname="" id="" package="demo" skipped="0"
+    tests="4" time="48.78" timestamp="Sun, 11 Feb 2018 21:54:38 GMT">
+  
+    <testcase name="Demo test Imgur Login" classname="demo" time="20.56" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Demo test Imgur Upload" classname="demo" time="11.45" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Demo test Imgur Search" classname="demo" time="4.391" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Demo test Imgur Random Page" classname="demo" time="12.39" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
